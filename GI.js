@@ -1,3 +1,4 @@
+///////////////////// VERY EASY  ///////////////////////
 function min(x, y) {
   return x - y;
 }
